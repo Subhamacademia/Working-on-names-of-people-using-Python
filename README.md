@@ -1,6 +1,5 @@
 # 
-# This program will take a name which is in unformatted order as input and will produce the same name in formatted order as output in a
-# specific order as shown in the following exampes.
+# This program will take your name in unformatted order as input and will produce the your name in formatted order as output in a specific order as shown in the following exampes.
 # I/O Example-1 
 #  dhoni
 #  Dhoni
