@@ -1,5 +1,5 @@
 # 
-# This program will take your name in unformatted manner as input and will produce your name in formatted manner as output as shown in the following exampes.
+# This program will take your unformatted full name as input and will produce your name in formatted manner as output as shown in the following exampes: 
 # I/O Example-1 
 #  dhoni
 #  Dhoni
